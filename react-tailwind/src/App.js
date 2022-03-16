@@ -1,8 +1,9 @@
 import "./App.css";
 import GalleryPage from "./pages/GalleryPage";
+import SkateboardPlatform from "./pages/SkateboardPlatform";
 
 function App() {
-  return <GalleryPage />;
+  return <SkateboardPlatform />;
 }
 
 export default App;
